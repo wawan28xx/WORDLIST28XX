@@ -1,0 +1,6 @@
+POST /bank/online-statements-for-account.html HTTP/1.1
+Host: zero.webappsecurity.com
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie: JSESSIONID=1AE701AC; username=username; password=password
+
+accountId=test
